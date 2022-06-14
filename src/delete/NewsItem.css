@@ -1,0 +1,10 @@
+.news-item {
+  display: flex;
+  background-color: #c2bdbd;
+  width: 20%;
+  border: solid black;
+}
+
+.news-image {
+  width: 100px;
+}
